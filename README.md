@@ -1,0 +1,2 @@
+# LikeLion-Backend-Assignments
+LikeLionバックエンドパートの課題およびプロジェクトを記録したリポジトリです。 JavaとSpring Bootを中心に、基本的なバックエンド開発スキルを習得した過程をまとめています。
