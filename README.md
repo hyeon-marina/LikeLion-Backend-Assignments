@@ -14,6 +14,8 @@ LikeLion-Backend-Assignments/
 ├── BOJ2439Prac/               # Javaでのパターン出力練習
 ├── ProgrammersListPrac/       # リストスライス（スイッチケース練習）
 └── README.md
+````
+
 🎯 使用技術
 Java 17+
 
