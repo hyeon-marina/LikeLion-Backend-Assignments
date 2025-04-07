@@ -19,7 +19,7 @@
 ## ✅ 課題 1: BOJ2439 - 星を出力する
 
 ### 📌 問題リンク
-[BOJ 2439 - 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+[BOJ 2439 - 星を右寄せで出力する（ステップ2)](https://www.acmicpc.net/problem/2439)
 
 ### ✨ 課題概要
 - 入力された整数 N に基づき、右寄せされたアスタリスク（星）を出力する。
@@ -39,7 +39,7 @@ System.out.println();
 ## ✅ 課題 2: PRG181897 - リストのスライス
 
 ### 📌 問題リンク
-[プログラマーズ 181897 - 리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)
+[Programmers 181897 - 配列のスライス処理](https://school.programmers.co.kr/learn/courses/30/lessons/181897)
 
 ### ✨ 課題概要
 - 指定された条件（n, slicer, c）に応じて配列をスライスする問題。
