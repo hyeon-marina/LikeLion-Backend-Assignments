@@ -10,7 +10,7 @@
 | 週 | 主な内容 | 詳細リンク |
 |----|-----------|-------------|
 | Week 01 | Java基礎、星の出力、配列スライス、例外処理 | [Week01 課題を見る](./Week01/README.md) |
-| Week 02 | 🔜 Spring Boot 入門予定 | 準備中 |
+| Week 02 | Spring Boot 入門（JPA未使用構成からDB連携構成へ） | [Week02 課題を見る](./Week02/README.md) |
 | Week 03~ | 🔜 API・データベース・認証など | 更新予定 |
 
 ---
@@ -26,4 +26,4 @@
 ## 🔗 関連情報
 
 - メインREADME: [LikeLion-2025-Backend/README.md](../README.md)
-- Zenn技術ブログ: [zenn.dev/너의아이디](https://zenn.dev/hyeon_marina)
+- Zenn技術ブログ: [zenn.dev/hyeon_marina](https://zenn.dev/hyeon_marina)
